@@ -1,0 +1,9 @@
+config.php
+
+cache/
+localcache/
+temp/
+sessions/
+trashdir/
+
+*.log
